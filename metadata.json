@@ -1,0 +1,6 @@
+{
+  "name": "ITZ FIZZ — Botanical Effervescence & Sparkling Elixirs",
+  "description": "Experience ITZ FIZZ: raw botanical sparkling infusions crafted with cold-press micro-effervescence, adaptive minerals, and cinematic sensory design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
